@@ -6,6 +6,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJerryG0228&count_bg=%2300D59D&title_bg=%23007AF3&icon=angellist.svg&icon_color=%23CCEDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anfdnfl)](https://solved.ac/anfdnfl)
 
+![Zoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryG0228&show_icons=true&theme=tokyonight)
+<a href="https://github.com/JerryG0228"><img style="height:197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryG0228&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/JerryG0228"><img align="center" style="height:197px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anfdnfl&layout=compact&theme=nord&hide_border=true" /></a>
+
 
 
 # 💪Skills
@@ -29,10 +33,9 @@
 ![Notion](https://img.shields.io/badge/Notion-FFE01A.svg?&style=for-the-badge&logo=Norton&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/intellij%20idea-236CFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-![Zoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryG0228&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anfdnfl)](https://solved.ac/rlatngus1691/)
 
 
 # 📚 Tech Blog
