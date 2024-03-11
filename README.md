@@ -1,7 +1,7 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=350&section=header&text=🙌🏻&nbsp;Welcome&nbsp;&nbsp;Zoo's&nbsp;Github&nbsp;🙌🏻&fontSize=60%&fontColor=86A7FC&animation=twinkling)
 
 # 💫 Cho Ju Hwan / Zoo
-### 모든 책임감을 가지고 열심히 시도해보고, 풀스택 개발자를 꿈꾸는 조주환, Zoo입니다🖐🏻
+### 모든 일을 책임감을 가지고 열심히 시도하는 조주환, Zoo입니다🖐🏻
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJerryG0228&count_bg=%2300D59D&title_bg=%23007AF3&icon=angellist.svg&icon_color=%23CCEDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anfdnfl)](https://solved.ac/anfdnfl)
