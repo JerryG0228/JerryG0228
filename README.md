@@ -21,6 +21,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![OracleDB](https://img.shields.io/badge/Oracle-#F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
+![Styled-components](https://img.shields.io/badge/Styled-components-#DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 
 ### 📚 Studying
