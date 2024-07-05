@@ -33,7 +33,7 @@
 ### 📚 Studying
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Etc](https://img.shields.io/badge/Etc-026664.svg?&style=for-the-badge&logo=SlashDot&logoColor=white)
+
 
 
 ### 🧰 Tools
