@@ -3,12 +3,29 @@
 # 💫 Cho Ju Hwan / Zoo
 ### 모든 일을 책임감을 가지고 열심히 도전하는 개발자, Zoo입니다🖐🏻
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJerryG0228&count_bg=%2300D59D&title_bg=%23007AF3&icon=angellist.svg&icon_color=%23CCEDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anfdnfl)](https://solved.ac/anfdnfl)
 
-![Zoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryG0228&show_icons=true&theme=tokyonight)
-<a href="https://github.com/JerryG0228"><img style="height:197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryG0228&layout=compact&theme=nord&hide_border=true" /></a>
-<a href="https://github.com/JerryG0228"><img align="center" style="height:197px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anfdnfl&layout=compact&theme=nord&hide_border=true" /></a>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=JerryG0228&show_icons=true&theme=tokyonight" alt="Zoo's GitHub stats" />
+      </td>
+      <td style="border: none;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anfdnfl&layout=compact&theme=nord&hide_border=true" alt="BOJ Badge" />
+      </td>
+    </tr>
+  </table>
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JerryG0228"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 
@@ -20,7 +37,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-<img src="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white">
 <div>
   <img src="https://img.shields.io/badge/React%20%26%20React%20native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Styled%20components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white">
