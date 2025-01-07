@@ -59,13 +59,3 @@
 ![Intellij IDEA](https://img.shields.io/badge/intellij%20idea-236CFF.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-# 📚 Tech Blog
-[![Velog](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=[https://soo-vely-dev.tistory.com/](https://velog.io/@zoo_h/posts))](https://velog.io/@zoo_h/posts)
-
-
-# 📮 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anfdnfl@khu.ac.kr)](mailto:anfdnfl@khu.ac.kr)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:anfdnfl@naver.com)](mailto:anfdnfl@naver.com)
