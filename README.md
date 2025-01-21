@@ -1,8 +1,7 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=350&section=header&text=🙌🏻&nbsp;Welcome&nbsp;&nbsp;Zoo's&nbsp;Github&nbsp;🙌🏻&fontSize=60%&fontColor=86A7FC&animation=twinkling)
 
-# 💫 Ju Hwan Cho/ Zoo
 ### 생각보다 행동이 앞선 개발자, Zoo입니다🖐🏻
-
+---
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/JerryG0228"
