@@ -14,6 +14,7 @@
 
 # 🌱 Experience
 <ul>
+  <li><b>20.03 ~ ing</b> - 경희대학교 컴퓨터공학과 입학</li>
   <li><b>23.11</b> - <a href="https://github.com/KhuTTTT/FrontEnd">경희대학교 해커톤(2023 Khuthon)</a> <strong>우수상</strong>🎖️</li>
   <li><b>23.11</b> - <a href="https://github.com/JerryG0228/SW_Festival">경희대학교 2023 SwFestival</a> 피지컬컴퓨팅 부문 <strong>주니어상</strong>🎖️</li>
   <li><b>23.09 ~ 24.02</b> - <a href="https://github.com/TeamAvAb">University MakeUs Challenge(UMC)</a> <strong>5th Web 파트원</strong></li>
