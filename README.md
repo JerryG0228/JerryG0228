@@ -2,7 +2,7 @@
 
 ### 생각보다 행동이 앞선 개발자, Zoo입니다🖐🏻
 ---
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JerryG0228&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/JerryG0228"
   width="600"
