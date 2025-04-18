@@ -25,7 +25,8 @@
   <li><b>24.01 ~ 24.12</b> - 경희대학교 컴퓨터공학과 학술동아리 DCOM <strong>회장</strong></li>
   <li><b>24.01 ~ 24.12</b> - 경희대학교 소프트웨어융합대학 학생회 SO::ONE <strong>홍보팀장</strong></li>
   <li><b>24.09 ~ 25.02</b> - University MakeUs Challenge(UMC) <strong>7th Web 파트장 & <a href="https://github.com/Team-Pickify">Pickify 프론트팀</a></strong></li>
-  <li><b>25.01 ~ ing</b> - 한국경제신문 x 토스뱅크 풀스택 과정 2th <strong>훈련생</strong></li>
+  <li><b>25.02 ~ 25.03</b> - 한국경제신문 x 토스뱅크 풀스택 과정 2th <a href="https://github.com/1poon2poon/front">중간 프로젝트</a> <strong>대상</strong>🎖️</li>
+  <li><b>25.01 ~ 25.07</b> - 한국경제신문 x 토스뱅크 풀스택 과정 2th <strong>훈련생</strong></li>
 </ul>
 <br />
 <br />
