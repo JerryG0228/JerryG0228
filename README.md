@@ -35,16 +35,19 @@
 
 # ✨ Skills
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,java,c,cpp,dart,tailwind,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,dart)](https://skillicons.dev)
 <br />
 
-### Framework & Library
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,mongodb,flask,nodejs)](https://skillicons.dev)
+### Framework
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,flask,nodejs,spring)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=vite,yarn,npm,styledcomponents,emotion)](https://skillicons.dev)
 
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=git,figma,notion,obsidian,vscode,pycharm,clion,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,githubactions,aws,docker,mongodb,mysql,elasticsearch,redis)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,obsidian,idea,vscode)](https://skillicons.dev)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 <br />
 <br />
