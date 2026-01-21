@@ -29,6 +29,7 @@
   <li><b>25.02 ~ 25.03</b> - 한국경제신문 x 토스뱅크 풀스택 과정 2th <a href="https://github.com/1poon2poon/front">중간 프로젝트</a> <strong>대상</strong>🎖️</li>
   <li><b>25.05 ~ 25.07</b> - 한국경제신문 x 토스뱅크 풀스택 과정 2th <a href="https://github.com/3-PIUM/Back-end">최종 프로젝트</a> <strong>우수상</strong>🎖️</li>
   <li><b>25.01 ~ 25.07</b> - 한국경제신문 x 토스뱅크 풀스택 과정 2th 수료</strong></li>
+  <li><b>25.09 ~ 26.01</b> - 대학 연합 동아리 잇타(IT’s TIME) 8기 수료 & <a href="https://github.com/team-maru">프로젝트(KOPLE) </a> 최우수상</strong>🎖️</li>
 </ul>
 <br />
 <br />
